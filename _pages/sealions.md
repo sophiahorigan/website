@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 header:
-  image: Baby SL.jpg
+  image: "assets/images/Baby SL.jpg"
   caption: "*Galapagos Sea lion- San Cristobal, Galapagos*"
 permalink: /research/sealions/
 ---
