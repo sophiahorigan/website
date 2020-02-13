@@ -4,7 +4,7 @@ author_profile: false
 permalink: /research/
 title: "Research"
 header:
-  image: "/assets/images/Lupes.jpg"
+  image: "/assets/images/Lupes3.png"
   caption: "*Beehive Reservoir, Washington*"
 feature_row:
   - image_path: "/assets/images/DFTM.JPG"
