@@ -97,6 +97,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kpd19"
 
+# Default styles:
 defaults:
   # _posts
   - scope:
@@ -109,13 +110,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 
 category_archive:
   type: liquid
