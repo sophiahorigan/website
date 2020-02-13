@@ -1,5 +1,5 @@
 ---
-title: "Post: Research Opportunities in the Dwyer Lab!"
+title: "Research Opportunities in the Dwyer Lab!"
 categories:
   - Blog
 tags:
