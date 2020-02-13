@@ -7,7 +7,7 @@ tags:
   - Dwyer Lab
 ---
 
-We have a few opportunities for helping out with research in the Dwyer lab! Most of them are field opportunities and we are very happy to discuss doing a senior thesis working with us!
+We have a few opportunities for helping out with research in the Dwyer lab! Most of them are field opportunities and we are very happy to discuss doing a senior thesis working with us. 
 
 **Katie Dixon**
 
