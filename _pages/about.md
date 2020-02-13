@@ -1,7 +1,12 @@
 ---
 permalink: /about/
 title: "About"
+header:
+  image: "assets/images/hobbits.jpg"
+  caption: "*Cotopaxi, Ecuador*"
 ---
+
+
 
 I'm a graduate student at the University of Chicago in the Ecology and Evolution Department. I'm working in Greg Dwyer's lab studying pathogen variation in Douglas fir tussock moth caterpillars. They defoliate large swaths of forest in the western united states and understanding population dynamics is of management concern. 
 
