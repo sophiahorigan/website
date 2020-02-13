@@ -1,4 +1,6 @@
 ---
+layout: splash
+author_profile: false
 permalink: /research/
 title: "Research"
 header:
@@ -7,13 +9,13 @@ header:
 feature_row:
   - image_path: "/assets/images/DFTM.JPG"
     #title: 
-    excerpt: "Models of Host-Pathogen Dynamics in Douglas Fir Tussock Moths"
+    excerpt: "Host-Pathogen Dynamics"
     url: /research/host-pathogen-dynamics
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: "/assets/images/Baby SL.jpg"
     #title: 
-    excerpt: "Spatial models in sea lions"
+    excerpt: "Sea lion Spatial Models"
     url: /research/sealions
     btn_label: "Read More"
     btn_class: "btn--inverse"
