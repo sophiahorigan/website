@@ -1,8 +1,24 @@
 ---
 permalink: /research/
 title: "Research"
+header:
+  image: Lupes.jpg
+  caption: "*Beehive Reservoir, Washington*"
+feature_row:
+  - image_path: DFTM.JPG
+    #title: 
+    excerpt: "Models of Host-Pathogen Dynamics"
+    url: /research/host-pathogen-dynamics
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: Baby SL.jpg
+    #title: 
+    excerpt: "Forecasting Disease for Biocontrol"
+    url: /research/pest-control
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
-I'm a graduate student at the University of Chicago in the Ecology and Evolution Department. I'm working in Greg Dwyer's lab studying pathogen variation in Douglas fir tussock moth caterpillars. They defoliate large swaths of forest in the western united states and understanding population dynamics is of management concern. 
+## Research Topics
 
-I did my masters in Biology at Case Western Reserve University, studying the effects of El Nino and introduced disease on sea lions in Karen Abbotts Lab.
+{% include feature_row %}
