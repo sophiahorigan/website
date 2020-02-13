@@ -13,14 +13,33 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+
+locale                   : "en"
+title                    : "Disease Ecology and Evolution"
+title_separator          : "-"
+name                     : "Katie Dixon"
+description              : "Academic Website"
+url                      : "https://kpdixon.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "kpdixon.github.io"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
+  disqus:
+    shortname            : "kpdixon-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+
+
 minimal_mistakes_skin: default
 search: true
 
