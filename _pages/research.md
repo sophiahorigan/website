@@ -7,14 +7,14 @@ header:
 feature_row:
   - image_path: DFTM.JPG
     #title: 
-    excerpt: "Models of Host-Pathogen Dynamics"
+    excerpt: "Models of Host-Pathogen Dynamics in Douglas Fir Tussock Moths"
     url: /research/host-pathogen-dynamics
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: Baby SL.jpg
     #title: 
-    excerpt: "Forecasting Disease for Biocontrol"
-    url: /research/pest-control
+    excerpt: "Spatial models in sea lions"
+    url: /research/sealions
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
