@@ -2,6 +2,7 @@
 layout: single
 author_profile: false
 permalink: /people/
+title: "People"
 ---
 
 ## Principal Investigator
