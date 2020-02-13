@@ -7,11 +7,7 @@ title: "People"
 
 ## Principal Investigator
 
-### Katie Dixon, PhD
-<figure>
-  <img src="/images/option2.png" style="float:left;width:300px;height:450px">
-</figure>
-
+### Katie Dixon
 
 **Contact Info:**
 
