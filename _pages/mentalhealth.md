@@ -1,9 +1,7 @@
 ---
-permalink: /people/
-title: "People"
+permalink: /mentalhealth/
+title: "Mental Health"
 ---
-
-## Principal Investigator
 
 ### Katie Dixon
 
