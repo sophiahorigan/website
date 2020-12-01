@@ -18,8 +18,8 @@ Currently, these meetings are set to occur every other Wednesday at 1pm. The nex
 - December 2nd, 2020
 - December 16th, 2020
 
-We also offer an anonymous google form where anyone can share thoughts or experiences at any time, with the option of them being read aloud at a meeting and/or shared with faculty. 
-Name and email are optional, the form is set to not collect email addresses and is not linked to a UC email account (ee.issues@gmail.com). 
+We also offer an [anonymous google form](https://docs.google.com/forms/d/e/1FAIpQLSdPIAkH9yfifr_-jYmpRRSjIm8nrxM-ENS2Wi0eD3P-xVFBGQ/viewform?fbzx=-4059902779143257446) where anyone can share thoughts or experiences at any time, with the option of them being read aloud at a meeting and/or shared with faculty. 
+Name and email are optional, the form is set to not collect email addresses and is not linked to a UC email account (ee.issues(at)gmail.com). 
 Please reach out if you would like help writing an anonymous statement.
 
 The organizers collected tips for COVID Coping Mechanisms at the inaugural meeting, the info can be found [here](https://docs.google.com/document/d/1hQFQgpa5gqdE7WBFOI3KNXmI1WYtuTs7li-5Ydq0xzA/edit). 
