@@ -6,24 +6,18 @@ title: "Mental Health"
 header:
   image: "/assets/images/trees_cropped.png"
 feature_row:
-  - image_path: "/assets/images/DFTM.JPG"
+  - image_path: "/assets/images/beach.jpg"
     #title: 
     excerpt: "Resources and Info"
     url: /mentalhealth/resources/
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: "/assets/images/Baby SL.jpg"
+  - image_path: "/assets/images/ocean2.jpg"
     #title: 
     excerpt: "Mental Health Check In"
     url: /mentalhealth/mchi/
     btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: "/assets/images/Baby SL.jpg"
-    #title: 
-    excerpt: "Contact"
-    url: /mentalhealth/contact/
-    btn_label: "Read More"
-    btn_class: "btn--inverse"    
+    btn_class: "btn--inverse"   
 ---
 
 ## Mental health information
