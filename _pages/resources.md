@@ -2,8 +2,7 @@
 layout: single
 author_profile: false
 header:
-  image: "assets/images/Baby SL.jpg"
-  caption: "*Galapagos Sea lion- San Cristobal, Galapagos*"
+  image: "assets/images/trees_cropped.jpg"
 permalink: /mentalhealth/resources/
 ---
 Here is where I'll post mental health resources.
