@@ -10,19 +10,19 @@ feature_row:
   - image_path: "/assets/images/DFTM.JPG"
     #title: 
     excerpt: "Resources and Info"
-    url: /mentalhealth/resources
+    url: /mentalhealth/resources/
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: "/assets/images/Baby SL.jpg"
     #title: 
     excerpt: "Mental Health Check In"
-    url: /mentalhealth/mchi
+    url: /mentalhealth/mchi/
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: "/assets/images/Baby SL.jpg"
     #title: 
     excerpt: "Contact"
-    url: /mentalhealth/contact
+    url: /mentalhealth/contact/
     btn_label: "Read More"
     btn_class: "btn--inverse"    
 ---
