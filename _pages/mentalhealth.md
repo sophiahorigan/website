@@ -15,7 +15,7 @@ feature_row:
   - image_path: "/assets/images/ocean2.jpeg"
     #title: 
     excerpt: "Mental Health Check In"
-    url: /mentalhealth/mchi/
+    url: /mentalhealth/mhci/
     btn_label: "Read More"
     btn_class: "btn--inverse"   
 ---
