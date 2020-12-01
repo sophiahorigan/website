@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 header:
-  image: "assets/images/trees_cropped.jpg"
+  image: "assets/images/trees_cropped.png"
 permalink: /mentalhealth/resources/
 ---
 Here is where I'll post mental health resources.
