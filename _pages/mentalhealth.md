@@ -1,14 +1,32 @@
 ---
-permalink: /mentalhealth/
-title: "Mental Health"
+layout: splash
+author_profile: false
+permalink: /research/
+title: "Research"
+header:
+  image: "/assets/images/Lupes3.png"
+  caption: "*Beehive Reservoir, Washington*"
+feature_row:
+  - image_path: "/assets/images/DFTM.JPG"
+    #title: 
+    excerpt: "Resources and Info"
+    url: /mentalhealth/resources
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: "/assets/images/Baby SL.jpg"
+    #title: 
+    excerpt: "Mental Health Check In"
+    url: /mentalhealth/mchi
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: "/assets/images/Baby SL.jpg"
+    #title: 
+    excerpt: "Contact"
+    url: /mentalhealth/contact
+    btn_label: "Read More"
+    btn_class: "btn--inverse"    
 ---
 
-### Katie Dixon
+## Research Topics
 
-**Contact Info:**
-
-Department of Ecology and Evolution
-1103 East 57th St
-Chicago, IL 60637
-
-Office:  Erman 103 
+{% include feature_row %}
