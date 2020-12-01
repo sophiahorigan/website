@@ -30,3 +30,9 @@ feature_row:
 ## Research Topics
 
 {% include feature_row %}
+
+Mental health is definited by the World Health Organization as
+- A state of well being in which the individual realizes their own abilities
+- Can cope with the normal stresses of life
+- Can work productively and fruitfully
+- Is able to make a contribution to his or her community
