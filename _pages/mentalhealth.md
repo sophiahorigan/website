@@ -27,7 +27,7 @@ feature_row:
     btn_class: "btn--inverse"    
 ---
 
-## Research Topics
+## Mental health information
 
 {% include feature_row %}
 
