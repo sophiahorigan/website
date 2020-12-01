@@ -4,8 +4,7 @@ author_profile: false
 permalink: /mentalhealth/
 title: "Mental Health"
 header:
-  image: "/assets/images/Lupes3.png"
-  caption: "*Beehive Reservoir, Washington*"
+  image: "/assets/images/trees_cropped.png"
 feature_row:
   - image_path: "/assets/images/DFTM.JPG"
     #title: 
