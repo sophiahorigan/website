@@ -12,7 +12,7 @@ feature_row:
     url: /mentalhealth/resources/
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: "/assets/images/ocean2.jpg"
+  - image_path: "/assets/images/ocean2.jpeg"
     #title: 
     excerpt: "Mental Health Check In"
     url: /mentalhealth/mchi/
