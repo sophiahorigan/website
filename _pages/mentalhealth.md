@@ -1,8 +1,8 @@
 ---
 layout: splash
 author_profile: false
-permalink: /research/
-title: "Research"
+permalink: /mentalhealth/
+title: "Mental Health"
 header:
   image: "/assets/images/Lupes3.png"
   caption: "*Beehive Reservoir, Washington*"
