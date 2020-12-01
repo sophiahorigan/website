@@ -8,7 +8,7 @@ permalink: /mentalhealth/resources/
 ---
 Here is where I'll post mental health resources.
 
-# ** Within the University of Chicago **
+# Within the University of Chicago 
 
 ### [University of Chicago Student Wellness Center](https://wellness.uchicago.edu/mental-health/)
 
@@ -30,7 +30,7 @@ This team is comprised of:
 - Bias Education and Support Team (BEST)
 
 
-# ** National **
+# National
 
 ### National Suicide Prevention Lifeline
 
