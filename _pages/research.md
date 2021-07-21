@@ -9,14 +9,20 @@ header:
 feature_row:
   - image_path: "/assets/images/DFTM.JPG"
     #title: 
-    excerpt: "Host-Pathogen Dynamics"
-    url: /research/host-pathogen-dynamics
+    excerpt: "The Impact of Climate Change on Pathogen Competition"
+    url: /research/climate-change-pathogen-competition
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: "/assets/images/Baby SL.jpg"
     #title: 
-    excerpt: "Sea lion Spatial Models"
-    url: /research/sealions
+    excerpt: "Evolution of Spider Venom Genes"
+    url: /research/spider-venom-evo
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: "/assets/images/Baby SL.jpg"
+    #title: 
+    excerpt: "Venom Proteomics"
+    url: /research/venom-proteomics
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
