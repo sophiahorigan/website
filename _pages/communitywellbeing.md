@@ -2,7 +2,7 @@
 layout: splash
 author_profile: false
 permalink: /communitywellbeing/
-title: "Community Wellbeing"
+title: "Community Well-being"
 header:
   image: "/assets/images/chipano.JPG"
 feature_row:
