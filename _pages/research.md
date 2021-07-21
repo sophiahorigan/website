@@ -4,8 +4,8 @@ author_profile: false
 permalink: /research/
 title: "Research"
 header:
-  image: "/assets/images/Lupes3.png"
-  caption: "*Beehive Reservoir, Washington*"
+  image: "/assets/images/luxpano.jpeg"
+  caption: "*Lux Arbor Reserve, Michigan*"
 feature_row:
   - image_path: "/assets/images/4thleaf3.jpeg"
     #title: 
