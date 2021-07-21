@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 header:
-  image: "/data/brown-recluse1.jpeg"
+  image: "/assets/images/brown-recluse1.jpeg"
   caption: "*Brown Recluse Spider*"
 permalink: /research/spider-venom
 ---
