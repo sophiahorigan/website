@@ -13,16 +13,10 @@ feature_row:
     url: /research/climate-change-pathogen-competition
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: "/assets/images/Baby SL.jpg"
+  - image_path: "/data/4thleaf3.jpeg"
     #title: 
-    excerpt: "Evolution of Spider Venom Genes"
-    url: /research/spider-venom-evo
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: "/assets/images/Baby SL.jpg"
-    #title: 
-    excerpt: "Venom Proteomics"
-    url: /research/venom-proteomics
+    excerpt: "Spider Venom: Evolution and Proteomics"
+    url: /data/brown-recluse1.jpeg
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---

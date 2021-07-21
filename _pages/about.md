@@ -2,8 +2,8 @@
 permalink: /about/
 title: "About"
 header:
-  image: "assets/images/hobbits.jpg"
-  caption: "*Cotopaxi, Ecuador*"
+  image: "data/chipano.jpg"
+  caption: "*Chicago from Lake Michigan*"
 ---
 
 

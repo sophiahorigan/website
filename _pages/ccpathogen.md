@@ -2,8 +2,8 @@
 layout: single
 author_profile: false
 header:
-  image: "/assets/images/DFTM.JPG"
-  caption: "*Douglas fir tussock moth- Wenatchee, Washington*"
+  image: "/data/4thleaf3.jpeg"
+  caption: "*Gypsy Moth Caterpillar, Michigan*"
 permalink: /research/climate-change-pathogen-competition
 ---
 
