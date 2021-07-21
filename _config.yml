@@ -78,7 +78,7 @@ plugins:
 
 author:
   name   : "Sophia Horigan"
-  avatar : "/assets/images/option2.png"
+  avatar : "/_data/aboutme1.JPG"
   bio    : "I'm a PhD student studing disease ecology at the University of Chicago"
   links:
     - label: "GitHub"

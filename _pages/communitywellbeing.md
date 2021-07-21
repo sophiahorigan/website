@@ -4,7 +4,7 @@ author_profile: false
 permalink: /communitywellbeing/
 title: "Community Wellbeing"
 header:
-  image: "/assets/images/trees_cropped.png"
+  image: "/_data/chipano.jpg"
 feature_row:
   - image_path: "/assets/images/beach.jpg"
     #title: 
