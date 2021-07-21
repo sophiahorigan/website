@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
   - title: "Research"
     url: /research/
-  - title: "Mental Health"
-    url: /mentalhealth/
+  - title: "Community Wellbeing"
+    url: /communitywellbeing/
   - title: "About"
     url: /about/
+  - title: "Posts"
+    url: /posts/
