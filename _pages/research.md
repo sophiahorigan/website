@@ -15,7 +15,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: "/assets/images/brown-recluse1.jpg"
     #title: 
-    excerpt: "Computational Method Development for Phylogenomics and Proteomics"
+    excerpt: "Computational Method Development for Phylogenomics and Proteomics using AWS"
     url: /research/spider-venom
     btn_label: "Read More"
     btn_class: "btn--inverse"
