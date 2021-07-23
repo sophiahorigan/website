@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 locale                   : "en"
-title                    : "Computational Ecology"
+title                    : "Computational Ecology (and a bit of Evolution)"
 title_separator          : "-"
 name                     : "Sophia Horigan"
 description              : "Academic Website"
@@ -78,8 +78,8 @@ plugins:
 
 author:
   name   : "Sophia Horigan"
-  avatar : "/_data/aboutme1.JPG"
-  bio    : "I'm a PhD student studing disease ecology at the University of Chicago"
+  avatar : "../assets/images/aboutme1.JPG"
+  bio    : "I am a PhD Candidate at the University of Chicago in Ecology and Evolution."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
