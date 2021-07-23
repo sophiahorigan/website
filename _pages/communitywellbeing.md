@@ -4,7 +4,7 @@ author_profile: false
 permalink: /communitywellbeing/
 title: "Community Well-being"
 header:
-  image: "https://github.com/sophiahorigan/website/blob/master/assets/images/chipano.jpg"
+  image: "../assets/images/chipano.jpg"
 feature_row:
   - image_path: "/assets/images/beach.jpg"
     #title: 

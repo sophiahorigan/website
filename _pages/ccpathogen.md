@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 header:
-  image: "~/Documents/Github/website/assets/images/4thleaf3.jpg"
+  image: "../assets/images/4thleaf3.jpg"
   caption: "*Gypsy Moth Caterpillar, Michigan*"
 permalink: /research/climate-change-pathogen-competition
 ---

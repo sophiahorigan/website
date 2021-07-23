@@ -4,7 +4,7 @@ author_profile: false
 permalink: /research/
 title: "Research"
 header:
-  image: "~/Documents/Github/website/assets/images/luxpano.jpg"
+  image: "../assets/images/luxpano.jpg"
   caption: "*Lux Arbor Reserve, Michigan*"
 feature_row:
   - image_path: "~/Documents/Github/website/assets/images/4thleaf3.jpg"
