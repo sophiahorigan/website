@@ -4,16 +4,16 @@ author_profile: false
 permalink: /research/
 title: "Research"
 header:
-  image: "/assets/images/luxpano.jpg"
+  image: "~/Documents/Github/website/assets/images/luxpano.jpg"
   caption: "*Lux Arbor Reserve, Michigan*"
 feature_row:
-  - image_path: "/assets/images/4thleaf3.jpg"
+  - image_path: "~/Documents/Github/website/assets/images/4thleaf3.jpg"
     #title: 
     excerpt: "The Ecological Consequences of Climate Change"
     url: /research/climate-change-pathogen-competition
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: "/assets/images/brown-recluse1.jpg"
+  - image_path: "~/Documents/Github/website/assets/images/brown-recluse1.jpg"
     #title: 
     excerpt: "Computational Method Development for Phylogenomics and Proteomics using AWS"
     url: /research/spider-venom
