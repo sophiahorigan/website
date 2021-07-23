@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 locale                   : "en"
-title                    : "Disease Ecology and Evolution"
+title                    : "Computational Ecology"
 title_separator          : "-"
 name                     : "Sophia Horigan"
 description              : "Academic Website"

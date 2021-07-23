@@ -4,7 +4,7 @@ author_profile: false
 permalink: /communitywellbeing/
 title: "Community Well-being"
 header:
-  image: "/assets/images/chipano.JPG"
+  image: "/assets/images/chipano.Jjpg"
 feature_row:
   - image_path: "/assets/images/beach.jpg"
     #title: 
@@ -20,7 +20,7 @@ feature_row:
     btn_class: "btn--inverse"   
 ---
 
-## Mental health information
+## Community Well-Being
 
 {% include feature_row %}
 
