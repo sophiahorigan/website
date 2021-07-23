@@ -13,9 +13,9 @@ feature_row:
     url: /research/climate-change-pathogen-competition
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: "~/Documents/Github/website/assets/images/brown-recluse1.jpg"
+  - image_path: "https://github.com/sophiahorigan/website/blob/master/assets/images/brown_recluse1.jpg"
     #title: 
-    excerpt: "Computational Method Development for Phylogenomics and Proteomics using AWS"
+    excerpt: "Cloud Computing for Small Colleges"
     url: /research/spider-venom
     btn_label: "Read More"
     btn_class: "btn--inverse"
