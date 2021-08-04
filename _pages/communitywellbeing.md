@@ -1,8 +1,8 @@
 ---
 layout: splash
 author_profile: false
-permalink: /communitywellbeing/
-title: "Community Well-being"
+permalink: /communitybetterment/
+title: "Community Betterment"
 header:
   image: "../assets/images/test.jpeg" 
 ---

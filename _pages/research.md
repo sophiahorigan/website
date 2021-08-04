@@ -23,7 +23,7 @@ feature_row:
 
 ## Research Topics
 
-I am a computational ecologist with a passion for performing research at the intersection of theory and empiricism. 
+I am a computational ecologist interested in how we can apply High-Performance Computing to investigate bioligical questions. 
 
 {% include feature_row %}
 
