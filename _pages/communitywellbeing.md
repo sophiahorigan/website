@@ -6,6 +6,7 @@ title: "Community Betterment"
 header:
   image: "../assets/images/test.jpeg" 
 ---
+![image info](../assets/images/test.jpeg)
 
 ## Community Betterment
 
