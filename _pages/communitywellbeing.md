@@ -4,6 +4,7 @@ author_profile: false
 permalink: /communitybetterment/
 title: "Community Betterment"
 ---
+
 ![image info](../assets/images/beansnow.jpg)
 
 ## Community Betterment
