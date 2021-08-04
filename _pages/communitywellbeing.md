@@ -3,10 +3,8 @@ layout: splash
 author_profile: false
 permalink: /communitybetterment/
 title: "Community Betterment"
-header:
-  image: "../assets/images/test.jpeg" 
 ---
-![image info](../assets/images/test.jpeg)
+![image info](../assets/images/beansnow.jpg)
 
 ## Community Betterment
 
