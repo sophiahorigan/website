@@ -4,14 +4,15 @@ author_profile: false
 permalink: /communitywellbeing/
 title: "Community Well-being"
 header:
-  image: "../assets/images/chipano.jpg" 
+  image: "~/assets/images/chipano.jpg" 
 ---
 
 ## Community Betterment
 
 As a queer woman in STEM, I have experienced both discrimination and a lack of representation, which fuels feelings of self-doubt and imposter syndrome. My determination to empower myself as a cutting-edge computational ecologist has led me to develop a passion for bettering academic spaces to give all young scientists the best possible environment to thrive. To that end, I current occupy leadership positions in a number of campus initiatives from the program- to entire graduate student- level that allow me to make positive, lasting change in my community.
 
-# insert diagram of my invovement at each level across the school
+![image info](../assets/images/leadership.png)
+
 
 ### Graduate Council: Biological Sciences Division Representative
 As the BSD Rep on Graduate Council, I am one of 33 elected representatives from the university's 12 graduate schools and divisions. My role is to advocate the needs and passions of members of my division by disseminating important information and voting across a range of topics related to the graduate student experience. Being a member of student government also gives me a unique experience to gain leadership skills including legislation development, grant application review, and acting as a liason.
