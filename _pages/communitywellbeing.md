@@ -4,7 +4,7 @@ author_profile: false
 permalink: /communitywellbeing/
 title: "Community Well-being"
 header:
-  image: "~/assets/images/chipano.jpg" 
+  image: "../assets/images/test.jpeg" 
 ---
 
 ## Community Betterment
