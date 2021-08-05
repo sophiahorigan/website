@@ -6,7 +6,7 @@ header:
   caption: "*The 'Chicago Bean' in Winter*"
 ---
 
-![image info](/assets/images/chipano.jpg =50x50)
+![image info](/assets/images/chipano.png)
 
 It all started with a spider...
 

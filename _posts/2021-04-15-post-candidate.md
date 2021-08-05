@@ -1,5 +1,5 @@
 ---
-title: "One Step Closer to Dr. Horigan!"
+title: "One Step Closer to Dr. Horigan"
 categories:
   - Blog
 ---

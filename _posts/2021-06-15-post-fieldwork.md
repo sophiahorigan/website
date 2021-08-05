@@ -1,5 +1,5 @@
 ---
-title: "A very successful first field season!"
+title: "A very successful first field season"
 categories:
   - Blog
 ---
