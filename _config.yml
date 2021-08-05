@@ -19,8 +19,8 @@ title                    : "Computational Ecology"
 title_separator          : "-"
 name                     : "Sophia Horigan"
 description              : "Academic Website"
-url                      : "https://sophiahorigan.github.io/website"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://sophiahorigan.github.io/website/"
+baseurl                  : "https://github.com/sophiahorigan/website"
 repository               : "website"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -79,7 +79,7 @@ plugins:
 author:
   name   : "Sophia Horigan"
   avatar : "../assets/images/aboutme1.JPG"
-  bio    : "I am a PhD Candidate at the University of Chicago in Ecology and Evolution."
+  bio    : "I am a PhD Candidate in the Ecology and Evolution program at the University of Chicago."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
