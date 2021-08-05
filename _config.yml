@@ -21,14 +21,14 @@ name                     : "Sophia Horigan"
 description              : "Academic Website"
 url                      : "https://sophiahorigan.github.io/website"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "sophiahorigan/website"
+repository               : "website"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
   disqus:
-    shortname            : "sophiahorigan/website" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "website" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
