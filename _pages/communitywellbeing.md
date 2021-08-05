@@ -5,7 +5,7 @@ permalink: /communitybetterment/
 title: "Community Betterment"
 ---
 
-![image info](../assets/images/beansnow.jpg)
+![image info](/assets/images/beansnow.jpg =50x50)
 
 ## Community Betterment
 

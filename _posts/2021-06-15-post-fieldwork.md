@@ -2,9 +2,6 @@
 title: "A very successful first field season!"
 categories:
   - Blog
-tags:
-  - Field Season
-  - Dwyer Lab
 ---
 
 And with the last carload of supplies unpacked on UChicago campus, that wraps up my first field season! A huge thank you to my advisor Greg Dwyer, Alison Hunter, Caroline Chael, and the staff at Kellogg Biological Station for their support.

@@ -2,9 +2,6 @@
 title: "Research Opportunities in the Dwyer Lab!"
 categories:
   - Blog
-tags:
-  - Research opportunities
-  - Dwyer Lab
 ---
 
 Looking for talented undergraduates from UChicago or other insitutions who are interested in supporting our work! Please find our contact information and project descriptions below. We are also open to supporting senior theses.

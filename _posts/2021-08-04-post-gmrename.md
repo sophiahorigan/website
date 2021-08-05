@@ -10,7 +10,7 @@ This action closely follows the development of an ESA task force called the Bett
 
 We at the Dwyer Lab, who have worked with *Lymantria dispar* for years, whole-heartedly support this act of respect that is long overdue. Until a new common name is chosen (I vote the color-spot caterpillar, check out the picture below to see why!), we will be using the scientific name both in and out of academic settings.
 
-![image infi](/assets/images/4thleaf.jpg)
+![image info](/assets/images/4thleaf.jpg)
 
 Sources:
 https://www.entsoc.org/better-common-names-project
