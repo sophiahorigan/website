@@ -20,7 +20,7 @@ title_separator          : "-"
 name                     : "Sophia Horigan"
 description              : "Academic Website"
 url                      : "https://sophiahorigan.github.io/website/"
-baseurl                  : "https://github.com/sophiahorigan/website"
+baseurl                  : 
 repository               : "website"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
