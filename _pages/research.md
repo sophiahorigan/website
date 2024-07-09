@@ -9,13 +9,43 @@ header:
 feature_row:
   - image_path: "/assets/images/4thleaf3.jpg"
     #title: 
-    excerpt: "The Ecological Consequences of Climate Change"
+    excerpt: "What drives zero-dose vaccination of children in Infanadiana District, Madagascar?"
+    url: /research/Mada-zero-dose
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: "/assets/images/4thleaf3.jpg"
+    #title: 
+    excerpt: "How do pathogens persist in bat populations?"
+    url: /research/bat-pathogen-persistence
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: "/assets/images/4thleaf3.jpg"
+    #title: 
+    excerpt: "How do Malagasy fruit bats use the landscape?"
+    url: /research/bat-movement
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: "/assets/images/4thleaf3.jpg"
+    #title: 
+    excerpt: "Viral discovery: Astrovirus in Malagasy fruit bats"
+    url: /research/astrovirus
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: "/assets/images/4thleaf3.jpg"
+    #title: 
+    excerpt: "How will climate change impact the future of prevented planting in US corn?"
+    url: /research/cc-corn
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: "/assets/images/4thleaf3.jpg"
+    #title: 
+    excerpt: "How does climate change impact spatially driven multipathogen competition?"
     url: /research/climate-change-pathogen-competition
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: "/assets/images/brown_recluse1.jpg"
     #title: 
-    excerpt: "Cloud Computing for Small Colleges"
+    excerpt: "Pioneering cloud computing for small college: a case study of spider venom evolution"
     url: /research/spider-venom
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -23,7 +53,7 @@ feature_row:
 
 ## Research Topics
 
-I am a computational ecologist interested in how we can apply high-performance computing to investigate bioligical questions. My research experience has taken me from gene evolution within spiders to disease dynamics across landscapes. Select an option below to read more.
+Starting my research journey studying the evolution of spider venom, my interests have widened to infectious disease dynamics across scales and global health. Select an option below to read more about my past and current work.
 
 {% include feature_row %}
 
