@@ -4,8 +4,6 @@ author_profile: false
 permalink: /research/
 title: "Research"
 header:
-  image: "/assets/images/luxpano.jpg"
-  caption: "*Lux Arbor Reserve, Michigan*"
 feature_row:
   - image_path: "/assets/images/4thleaf3.jpg"
     #title: 
@@ -51,7 +49,7 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-## Research Topics
+## Research Projects
 
 Starting my research journey studying the evolution of spider venom, my interests have widened to infectious disease dynamics across scales and global health. Select an option below to read more about my past and current work.
 

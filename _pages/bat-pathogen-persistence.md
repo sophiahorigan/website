@@ -6,3 +6,12 @@ header:
   caption: "*Gypsy Moth Caterpillar, Michigan*"
 permalink: /research/climate-change-pathogen-competition
 ---
+
+
+
+
+
+## Publications
+
+
+## Posters

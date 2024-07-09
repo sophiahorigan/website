@@ -7,3 +7,8 @@ header:
 permalink: /research/climate-change-pathogen-competition
 ---
 
+
+## Publications
+
+
+## Posters
