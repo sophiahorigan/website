@@ -11,21 +11,31 @@ title: "Community Service"
 
 During my time at the University of Chicago, I have held numerous voluntary leadership positions with the goal of bettering our community for current and future students. Read more about my contributions below.
 
-![image info](../assets/images/leadership.png)
+## Ecology and Evolution Diversity and Equity Committee Member
+
+My key contributions included:
+* development and implementation of Community Mentoring in Ecology and Evolution, a program that creates structured social settings for faculty, post-docs and students to interact with the goal of reducing hierarchical boundaries
+* writing meeting agendas and facilitating meetings
+
+[Read more about the EE DEIC here.](https://ecev-dei.bsd.uchicago.edu/)
 
 ### Graduate Council: Vice President 
 Following my tenture as the Biological Sciences Division Representative (see below), I campaigned and was elected as a Graduate Council Vice President 
 
 As the VP of Health and Wellness, I oversaw the development and implementation of wellness-related programming, managing an annual budget of $26,000. Featured programming includes:
+* distribution of free reusable menstrual cups to students
 * 
 
+[Read more about UChicago's Graduate Council here.](https://gc.uchicago.edu/)
+
 ### Graduate Council: Biological Sciences Division Representative
-As the BSD Rep on Graduate Council, I was one of 33 elected representatives from the university's 12 graduate schools and divisions. My role is to advocate the needs and passions of members of my division by disseminating important information and voting across a range of topics related to the graduate student experience. Being a member of student government also gives me a unique experience to gain leadership skills including legislation development, grant application review, and acting as a liason.
+As the BSD Rep on Graduate Council, I was one of 33 elected representatives from the university's 12 graduate schools and divisions. My role is to advocate the needs and passions of members of my division by disseminating important information and voting across a range of topics related to the graduate student experience.
 
 As a representative, I sat on the Health & Wellness Committee, where I worked in a small team to create and implement programming aimed at improving community well-being. Projects I worked on include:
 * financial and food security workshops
 * distribution of house plants and UV lights to combat seasonal depression
 * organizing virtual exercise programs during the COVID-19 pandemic
+* small grant review
 
 [Read more about UChicago's Graduate Council here.](https://gc.uchicago.edu/)
 

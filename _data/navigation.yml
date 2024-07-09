@@ -1,9 +1,11 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Community Betterment"
-    url: /communitybetterment/
-  - title: "About"
+  - title: "Madagascar Outreach"
+    url: /outreachprogramming/
+  - title: "Community Service"
+    url: /communityservice/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "About Me"
     url: /about/
-  - title: "Posts"
-    url: /posts/
