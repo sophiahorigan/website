@@ -12,4 +12,7 @@ Check back soon!
 <img align="right" width="33%" margin-left="20px" src="/assets/images/aboutme1.jpg">
 
 
+Read more about PIVOT's incredible efforts [here](https://www.pivotworks.org/).
+
+
 ## Acknowledgements
