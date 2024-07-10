@@ -22,7 +22,8 @@ Following my tenture as the Biological Sciences Division Representative (see bel
 
 As the VP of Health and Wellness, I oversaw the development and implementation of wellness-related programming, managing an annual budget of $26,000. Featured programming includes:
 * distribution of free reusable menstrual cups to students
-* 
+* virtual healthy cooking classes with ingredient distribution
+* facilitated group therapy sessions
 
 [Read more about UChicago's Graduate Council here.](https://gc.uchicago.edu/)
 
@@ -52,5 +53,5 @@ Also in response to feelings of isolation among graduate students, I co-develope
 
 ## Previous Work
 In addition to these roles at the University of Chicago, here is a selection of my experience in community betterment programming:
-* 
+* Volunteer at [Food Forward](https://foodforward.org/)
 
