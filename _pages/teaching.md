@@ -24,3 +24,4 @@ I was in charge of developing the curriculum and teaching sessions on computing 
 ### Teaching Assitant Roles
 For my teaching assitant requirement as a PhD student at the University of Chicago, I chose to TA two very different courses: graduate-level Theoretical Ecology, and undergraduate-level non-major The Public and Private Lives of Insects, giving me a wide range of experience in teaching styles and communication of complex ieas. In both courses I graded assignments and held regular office hours. In The Public and Private Lives of Insects, I taught two hour-long lectures of my choosing: one focused on Forensic Entomology, the other an overview of my research into the role of climate change on an insect pathogen system (see the Research tab).
 
+

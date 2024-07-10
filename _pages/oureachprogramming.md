@@ -26,3 +26,9 @@ As the program manager for C4C 2024-2025, I have solicited and review mentor and
 C4C was created by Dr. Cara Brook in 2021. Find out more about C4C [here](https://coding4conservation.org/).
 
 Tools & Software: Airtable
+
+## Additional cross-cultural experience
+* Study Abroad Teaching Assistant - Australia
+* Study Abroad Student - New Zealand
+* Volunteer at Gibbon Rehabilitation Center - Thailand
+* Trip Designer and Leader - Oglala-Lakota Reservation, South Dakota
