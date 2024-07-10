@@ -8,8 +8,15 @@ Check back soon!
 
 <img align="right" width="33%" margin-left="20px" src="/assets/images/aboutme1.jpg">
 
-## Publications
+Tools & Software: Google Colab, Jupyter Notebook, computing cluster
+Coding language: Python
 
+## Publications
+"Physical drivers of U.S. prevented planting events diagnosed with interpretable machine learning"
+
+Status: Submitted to prospective journals
+
+Haynes Stephens, Sophia Horigan, et al.
 
 ## Posters
 

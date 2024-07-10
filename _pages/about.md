@@ -19,6 +19,8 @@ Now, as I approach the end of my PhD, my life's goal has become clear to me: use
 
 I have had an incredibly fortunate life, and am ready and excited to work hard to improve the lives of others.
 
+[Full CV]
+
 ## Contact
 email: sophia.horigan@gmail.com
 

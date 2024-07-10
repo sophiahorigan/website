@@ -12,6 +12,9 @@ The field mission went exactly how field missions tend to go - some success, som
 
 Currently, through my own boots-on-the-ground efforts and my remote management of the US/Malagasy field team in Madagascar, we have deployed XX tags across XX locations. The data is still coming in, but we are starting to see some exciting patterns, and look forward to a forthcoming publication!
 
+Tools & Software: R studio, Movebank, Google Earth Engine
+Coding langage: R, Javascript
+
 ## Posters
 
 I presented a poster of this at the University of Chicago GLobal Health Symposium in 2023. Check out a pdf of my poster here.
