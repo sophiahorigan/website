@@ -3,11 +3,12 @@ permalink: /research/bat-movement/
 layout: single
 author_profile: false
 header:
-  image: /assets/images/battelem.jpg
-  caption: "*Equipping a Pteropus rufus bat with a solar-powered gps tracker*"
+  image: /assets/images/telemtrack.png
+  caption: "*Movement tracks of a gps tagged bat in Madagascar*"
 ---
 
 Check back soon!
+
 ## Overview
 
 
