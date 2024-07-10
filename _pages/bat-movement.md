@@ -4,8 +4,6 @@ layout: single
 author_profile: false
 ---
 
-## Overview
-
 Awarded the University of Chicago Global Health Summer Fellowship in 2022, I took to Madagascar for two months to set up a new field work program using gps telemetry to explore bat movement. Understanding how bats use the landscape is crucial in order to estimate zoonotoc risk; home range analysis allows you to identify interfaces for human-bat interactions. 
 
 The field mission went exactly how field missions tend to go - some success, some failure, lots of learning and lots of adventure. Our first gps tag, which we attach to bats with a collar tied with soluable thread, fell off almost immediately. Fortuantely though, we were able to recover and redeploy the tag on another bat, and had a number of additional successful deployments throughout the summer.

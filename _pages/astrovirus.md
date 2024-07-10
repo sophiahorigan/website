@@ -4,11 +4,9 @@ layout: single
 author_profile: false
 ---
 
-## Overview
-
 Bats are known to host a diverse range of viruses, some of which present a public health risk through zoonotic spillover. Part of a larger project aimed at identifying viruses circulating in Malagasy fruit bats, in this work I evalauted the presence of one particular virus family: Astroviridae. Astroviruses infect a broad range of mammalian hosts from sea lions to rats, and are credited with 2-9% of all acute non-bacterial gastrointestinal infections in human children.
 
-<img align="right" width="33%" margin-left="20px" src="/assets/images/astrofig.jpg">
+<img align="right" width="50%" margin-left="20px" src="/assets/images/astrofig.jpg">
 
 We detected evidence of astrovirus infection in all three species of endemic Malagasy fruit bat from multiple locations, suggesting that astroviruses persistently circulate in these bat populations. A closer look at our single full-genome astrovirus from a juvenile *Rousettus madagascarensis* did not suggest zoonotic capabilities, but given frequent human-bat contact in Madagascar and the propensity for astroviruses to recombine and mutate, this virus family maintains public health concern in Madagascar.
 

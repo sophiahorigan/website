@@ -7,8 +7,6 @@ header:
   caption: "*Group games to break up the lectures at E2M2 2023*"
 ---
 
-Check back soon!
-
 ## Ecological and Epidemiological Modeling in Madagascar
 
 
