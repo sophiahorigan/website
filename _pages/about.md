@@ -22,7 +22,7 @@ I have had an incredibly fortunate life, and am ready and excited to work hard t
 [Full CV]
 
 ## Contact
-email: sophia.horigan@gmail.com
+email: sophia.horigan[at]gmail.com
 
 phone: 805-765-7142
 
