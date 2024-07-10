@@ -8,3 +8,16 @@ header:
 ---
 
 Check back soon!
+
+## Overview
+
+
+![Madagascar bat sampling](/assets/images/sophbat.jpeg)
+
+## Publications
+
+
+## Posters
+
+
+### Acknowledgements

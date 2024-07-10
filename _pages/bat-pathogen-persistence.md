@@ -20,4 +20,4 @@ Check back soon!
 ## Posters
 
 
-## Acknowledgements
+### Acknowledgements

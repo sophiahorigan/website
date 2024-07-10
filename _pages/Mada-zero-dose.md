@@ -14,6 +14,6 @@ My internship project is working to understand the drivers of zero-dose vaccinat
 Read more about PIVOT's incredible efforts [here](https://www.pivotworks.org/).
 
 
-## Acknowledgements
+### Acknowledgements
 
 Thank you to my internship supervisors, Dr. Andres Garchitorena and Dr. Michelle Evans, and the rest of the PIVOT staff. Thank you also to Sophie Lockwood who is also working on the zero-dose project. 

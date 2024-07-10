@@ -22,4 +22,4 @@ Find out more about E2M2 [here](https://e2m2.org/).
 
 Find out more about C4C [here](https://coding4conservation.org/).
 
-## Acknowledgements
+### Acknowledgements
