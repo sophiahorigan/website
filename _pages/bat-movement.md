@@ -24,6 +24,6 @@ Advisor: [Dr. Cara Brook](https://brooklab.org/cara-brook)
 
 <img align="left" width="33%" margin-right="20px" src="/assets/images/friends.png">
 
-I would like to acknowledge my incredible colleagues Santino Andry and Angelo Andrianiaina, as well as field technicians Nuzha Baksh, Katherine McFerrin, and Martin Roland. I'd also like to acknowledge all of the Malagasy field team that makes this possible. 
+I would like to acknowledge my incredible colleagues Santino Andry and Angelo Andrianiaina, as well as field technicians Nuzha Baksh, Katherine McFerrin, and Martin Roland. I'd also like to acknowledge the amazing Malagasy field team that makes this possible, including our drivers, guides, and cooks. Thank you also to Dr. Jon Epstein and Dr. Bella Mandl for sharing their expertise on bat telemetry methods, and to Dr. Cecilia Sanchez and Dr. Morgan Kaine for data analysis and modeling insights. 
 
-Thank you to the [University of Chicago Center for Global Health](https://cgh.uchicago.edu/) for funding.
+Thank you to the [University of Chicago Center for Global Health](https://cgh.uchicago.edu/) for funding, and the non-profit [SEED Madagascar](https://madagascar.co.uk/) for field work logistic support.
