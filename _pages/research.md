@@ -5,7 +5,7 @@ permalink: /research/
 title: "Research"
 header:
 feature_row:
-  - image_path: "/assets/images/pivot.jpg"
+  - image_path: "/assets/images/pivot.png"
     #title: 
     excerpt: "What drives zero-dose vaccination of children in Infanadiana District, Madagascar?"
     url: /research/Mada-zero-dose
