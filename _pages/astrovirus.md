@@ -25,7 +25,7 @@ Preprint available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.
 
 ## Posters
 
-I presented a poster of this work at the Bat Infectious Diseases conference at Colorado State University in 2022. See a pdf version of my poster here.
+I presented a poster of this work at the Bat Infectious Diseases conference at Colorado State University in 2022. See a pdf version of my poster [here](/assets/images/ISIDB_Poster.pdf).
 
 ### Acknowledgements
 

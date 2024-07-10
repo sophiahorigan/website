@@ -23,7 +23,7 @@ Sophia Horigan et al.
 
 ## Posters
 
-I presented posters of this work at two consecutive Ecology and Evolution of Infectious Disease conferences: at Emory University in 2022 and at Pennsylvania State University in 2023. See a pdf version of my 2022 poster here and my 2023 poster here.
+I presented posters of this work at two consecutive Ecology and Evolution of Infectious Disease conferences: at Emory University in 2022 and at Pennsylvania State University in 2023. See a pdf version of my 2022 poster [here](/assets/images/Horigan_EEID_poster_2022.pdf) and my 2023 poster [here](/assets/images/Horigan_EEID_poster.pdf).
 
 ### Acknowledgements
 

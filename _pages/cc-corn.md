@@ -23,7 +23,7 @@ Haynes Stephens, Sophia Horigan, et al.
 
 ## Posters
 
-I presented a poster of this work at the NSF NRT Annual Meeting at Virginia Tech University in 2022. See a pdf version of my poster here.
+I presented a poster of this work at the NSF NRT Annual Meeting at Virginia Tech University in 2022. See a pdf version of my poster [here](/assets/images/NRT_poster_Horigan.pdf).
 
 ### Acknowledgements
 

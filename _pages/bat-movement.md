@@ -17,7 +17,7 @@ Coding langage: R, Javascript
 
 ## Posters
 
-I presented a poster of this at the University of Chicago GLobal Health Symposium in 2023. Check out a pdf of my poster here.
+I presented a poster of this at the University of Chicago GLobal Health Symposium in 2023. Check out a pdf of my poster [here](/assets/images/GHFSymposium-poster-Horigan.pdf).
 
 ### Acknowledgements
 

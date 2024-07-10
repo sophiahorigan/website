@@ -21,7 +21,7 @@ Status: In progress
 
 ## Posters
 
-I presented a poster of this work at the Ecology and Evolution of Infectious Disease conference at Stanford University in 2024. See a pdf version of my poster here.
+I presented a poster of this work at the Ecology and Evolution of Infectious Disease conference at Stanford University in 2024. See a pdf version of my poster [here](/assets/images/Horigan_EEID2024.pdf).
 
 ### Acknowledgements
 
