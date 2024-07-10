@@ -15,7 +15,7 @@ Coding language: R, C
 ## Publications
 "A data-based evaluation of the persistence of henipa- and filovirusese in the endemic Malagasy fruit bat, *Eidolon dupreanum*"
 
-Horigan, Sophia et al.
+Sophia Horigan et al.
 
 Status: In progress
 
