@@ -22,7 +22,7 @@ I presented a poster of this at the University of Chicago GLobal Health Symposiu
 
 Advisor: [Dr. Cara Brook](https://brooklab.org/cara-brook)
 
-<img align="left" width="33%" margin-left="20px" src="/assets/images/friends.png">
+<img align="left" width="33%" margin-right="20px" src="/assets/images/friends.png">
 
 I would like to acknowledge my incredible colleagues Santino Andry and Angelo Andrianiaina, as well as field technicians Nuzha Baksh, Katherine McFerrin, and Martin Roland. I'd also like to acknowledge all of the Malagasy field team that makes this possible. 
 
