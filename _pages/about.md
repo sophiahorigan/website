@@ -10,6 +10,6 @@ header:
 All about me! This page is under construction - please check back soon.
 
 
-<img align="right" width="33%" margin-left="20px" src="/assets/images/sophbat.jpeg">
+<img align="right" width="50%" margin-left="20px" src="/assets/images/sophbat.jpeg">
 
 
