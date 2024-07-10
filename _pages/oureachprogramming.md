@@ -3,7 +3,7 @@ permalink: /outreachprogramming/
 layout: single
 author_profile: false
 header:
-  image: <img src="/assets/images/e2m2telephone.jpg" width="200" height="200" />
+  image: "/assets/images/e2m2telephone.jpg"
   caption: "*Group games to break up the lectures at E2M2 2023*"
 ---
 
