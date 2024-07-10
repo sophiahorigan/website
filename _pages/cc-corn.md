@@ -15,7 +15,7 @@ Check back soon!
 
 ## Posters
 
-I presented this work at the NSF NRT Annual Meeting at Virginia Tech University in 2022. See a pdf version of my poster here.
+I presented a poster of this work at the NSF NRT Annual Meeting at Virginia Tech University in 2022. See a pdf version of my poster here.
 
 ### Acknowledgements
 
