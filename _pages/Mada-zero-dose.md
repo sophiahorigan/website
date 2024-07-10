@@ -9,5 +9,7 @@ header:
 
 Check back soon!
 
+<img align="right" width="33%" margin-left="20px" src="/assets/images/aboutme1.jpg">
+
 
 ## Acknowledgements

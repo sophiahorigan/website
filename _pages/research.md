@@ -17,7 +17,7 @@ feature_row:
     url: /research/bat-pathogen-persistence
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: "/assets/images/battelem.jpg"
+  - image_path: "/assets/images/telemtrack.png"
     #title: 
     excerpt: "How do Malagasy fruit bats use the landscape?"
     url: /research/bat-movement
@@ -37,11 +37,11 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: "/assets/images/4thleaf3.jpg"
     #title: 
-    excerpt: "How does climate change impact spatially driven multipathogen competition?"
+    excerpt: "How does climate change impact spatially driven multipathogen competition in an invasive insect system?"
     url: /research/climate-change-pathogen-competition
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: "/assets/images/brown_recluse1.jpg"
+  - image_path: "/assets/images/leafcat.png"
     #title: 
     excerpt: "Cloud computing for small colleges: a case study of spider venom evolution"
     url: /research/spider-venom

@@ -12,6 +12,9 @@ Check back soon!
 ## Ecological and Epidemiological Modeling in Madagascar
 
 
+<img align="right" width="33%" margin-left="20px" src="/assets/images/aboutme1.jpg">
+
+
 ## Coding for Conservation
 
 
