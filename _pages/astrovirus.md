@@ -1,4 +1,5 @@
 ---
+permalink: /astrovirus/
 layout: single
 author_profile: false
 header:

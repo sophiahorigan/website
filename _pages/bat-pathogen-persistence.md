@@ -1,4 +1,5 @@
 ---
+permalink: /bat-pathogen-persistence/
 layout: single
 author_profile: false
 header:

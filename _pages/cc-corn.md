@@ -1,4 +1,5 @@
 ---
+permalink: /cc-corn/
 layout: single
 author_profile: false
 header:

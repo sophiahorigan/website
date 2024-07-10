@@ -1,4 +1,5 @@
 ---
+permalink: /outreachprogramming/
 layout: single
 author_profile: false
 header:

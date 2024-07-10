@@ -1,4 +1,5 @@
 ---
+permalink: /Mada-zero-dose/
 layout: single
 author_profile: false
 header:
