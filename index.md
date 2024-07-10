@@ -2,14 +2,14 @@
 layout: single
 author_profile: true
 header:
- image: /assets/images/Lupes3.png
+ image: /assets/images/fieldcomp.jpg
 ---
 
-My name is Sophia Horigan and I am a PhD Candidate at the University of Chicago studying infectious disease ecology in the Department of Ecology and Evolution.
+My name is Sophia Horigan and I am a PhD Candidate at the University of Chicago studying infectious disease dynamics in the Department of Ecology and Evolution.
 
 To learn more about my work, service, and interests, check out my:
 
-* [Past and current research projects]](/research)
+* [Past and current research projects](/research)
 * [Role in educational programming for Malagasy students](/outreachprogramming)
 * [Service to the University of Chicago community](/community)
 * [Teaching experience](/teaching)

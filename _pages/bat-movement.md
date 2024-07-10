@@ -2,9 +2,8 @@
 layout: single
 author_profile: false
 header:
-  image: "../assets/images/4thleaf3.jpg"
-  caption: "*Gypsy Moth Caterpillar, Michigan*"
-permalink: /research/climate-change-pathogen-competition
+  image: /assets/images/battelem.jpg
+  caption: "*Equipping a Pteropus rufus bat with a solar-powered gps tracker*"
 ---
 
 Check back soon!
@@ -13,3 +12,6 @@ Check back soon!
 
 
 ## Posters
+
+
+## Acknowledgements

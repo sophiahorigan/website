@@ -2,16 +2,19 @@
 layout: single
 author_profile: false
 header:
-  image: "../assets/images/4thleaf3.jpg"
-  caption: "*Gypsy Moth Caterpillar, Michigan*"
-permalink: /research/climate-change-pathogen-competition
+  image: /assets/images/persistence.png
+  caption: "*Disease model simulations allow us to evaluate potential future dynamics*"
 ---
 
 Check back soon!
 
+## Overview
 
 
 ## Publications
 
 
 ## Posters
+
+
+## Acknowledgements

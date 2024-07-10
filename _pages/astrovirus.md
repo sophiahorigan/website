@@ -2,9 +2,8 @@
 layout: single
 author_profile: false
 header:
-  image: "../assets/images/4thleaf3.jpg"
-  caption: "*Gypsy Moth Caterpillar, Michigan*"
-permalink: /research/climate-change-pathogen-competition
+  image: /assets/images/Astrovirus.jpg
+  caption: "*Astrovirus virions first detected in 1975 from a diarrheal outbreak in humans*"
 ---
 
 Check back soon!

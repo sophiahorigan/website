@@ -5,31 +5,31 @@ permalink: /research/
 title: "Research"
 header:
 feature_row:
-  - image_path: "/assets/images/4thleaf3.jpg"
+  - image_path: "/assets/images/pivot.jpg"
     #title: 
     excerpt: "What drives zero-dose vaccination of children in Infanadiana District, Madagascar?"
     url: /research/Mada-zero-dose
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: "/assets/images/4thleaf3.jpg"
+  - image_path: "/assets/images/persistence.png"
     #title: 
     excerpt: "How do pathogens persist in bat populations?"
     url: /research/bat-pathogen-persistence
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: "/assets/images/4thleaf3.jpg"
+  - image_path: "/assets/images/battelem.jpg"
     #title: 
     excerpt: "How do Malagasy fruit bats use the landscape?"
     url: /research/bat-movement
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: "/assets/images/4thleaf3.jpg"
+  - image_path: "/assets/images/Astrovirus.jpg"
     #title: 
     excerpt: "Viral discovery: Astrovirus in Malagasy fruit bats"
     url: /research/astrovirus
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: "/assets/images/4thleaf3.jpg"
+  - image_path: "/assets/images/corn.png"
     #title: 
     excerpt: "How will climate change impact the future of prevented planting in US corn?"
     url: /research/cc-corn

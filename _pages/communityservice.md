@@ -5,8 +5,6 @@ permalink: /communityservice/
 title: "Community Service"
 ---
 
-![image info](/assets/images/beansnow.jpg =50x50)
-
 ## University of Chicago Community Betterment
 
 During my time at the University of Chicago, I have held numerous voluntary leadership positions with the goal of bettering our community for current and future students. Read more about my contributions below.
