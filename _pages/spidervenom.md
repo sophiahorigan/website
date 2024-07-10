@@ -1,10 +1,7 @@
 ---
-permalink: /research/spidervenom/
+permalink: /research/spider-venom/
 layout: single
 author_profile: false
-header:
-  image: /assets/images/brownrecluse1.jpg
-  caption: "*Brown recluse spider*"
 ---
 
 Check back soon!

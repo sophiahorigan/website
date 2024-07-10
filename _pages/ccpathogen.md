@@ -1,10 +1,7 @@
 ---
-permalink: /research/cc-pathogen/
+permalink: /research/climate-change-pathogen-competition/
 layout: single
 author_profile: false
-header:
-  image: "../assets/images/leafcat.png"
-  caption: "*Spongy moth caterpillar, Michigan*"
 ---
 
 Check back soon!
