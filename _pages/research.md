@@ -35,13 +35,13 @@ feature_row:
     url: /research/cc-corn
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: "/assets/images/4thleaf3.jpg"
+  - image_path: "/assets/images/leafcat.png"
     #title: 
     excerpt: "How does climate change impact spatially driven multipathogen competition in an invasive insect system?"
     url: /research/climate-change-pathogen-competition
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: "/assets/images/leafcat.png"
+  - image_path: "/assets/images/brown_recluse1.jpg"
     #title: 
     excerpt: "Cloud computing for small colleges: a case study of spider venom evolution"
     url: /research/spider-venom
