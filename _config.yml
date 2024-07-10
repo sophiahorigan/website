@@ -79,7 +79,7 @@ plugins:
 author:
   name   : "Sophia Horigan"
   avatar : "/assets/images/aboutme1.jpg"
-  bio    : "I'm a PhD candidate studing infectious disease ecology at the University of Chicago."
+  bio    : "infectious disease dynamics, global health"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
