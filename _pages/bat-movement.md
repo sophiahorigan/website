@@ -26,4 +26,4 @@ Advisor: [Dr. Cara Brook](https://brooklab.org/cara-brook)
 
 I would like to acknowledge my incredible colleagues Santino Andry and Angelo Andrianiaina, as well as field technicians Nuzha Baksh, Katherine McFerrin, and Martin Roland. I'd also like to acknowledge all of the Malagasy field team that makes this possible. 
 
-Thank you to the University of Chicago Global Health Center for funding.
+Thank you to the [University of Chicago Center for Global Health](https://cgh.uchicago.edu/) for funding.
