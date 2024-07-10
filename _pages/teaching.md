@@ -1,5 +1,6 @@
 ---
 permalink: /teaching/
+author_profile: false
 title: "Teaching"
 header:
   image: "~/test.jpeg"

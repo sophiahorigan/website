@@ -43,7 +43,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: "/assets/images/brown_recluse1.jpg"
     #title: 
-    excerpt: "Pioneering cloud computing for small college: a case study of spider venom evolution"
+    excerpt: "Cloud computing for small colleges: a case study of spider venom evolution"
     url: /research/spider-venom
     btn_label: "Read More"
     btn_class: "btn--inverse"

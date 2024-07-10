@@ -9,7 +9,7 @@ title: "Community Service"
 
 During my time at the University of Chicago, I have held numerous voluntary leadership positions with the goal of bettering our community for current and future students. Read more about my contributions below.
 
-## Ecology and Evolution Diversity and Equity Committee Member
+### Ecology and Evolution Diversity and Equity Committee Member
 
 My key contributions included:
 * development and implementation of Community Mentoring in Ecology and Evolution, a program that creates structured social settings for faculty, post-docs and students to interact with the goal of reducing hierarchical boundaries

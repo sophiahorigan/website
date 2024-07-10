@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
+author_profile: false
 header:
   image: /assets/images/sophlog.jpeg
   caption: "*Madagascar river crossing*"
