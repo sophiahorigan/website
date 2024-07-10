@@ -1,5 +1,5 @@
 ---
-permalink: /spidervenom/
+permalink: /research/spidervenom/
 layout: single
 author_profile: false
 header:

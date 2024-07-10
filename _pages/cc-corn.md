@@ -1,5 +1,5 @@
 ---
-permalink: /cc-corn/
+permalink: /research/cc-corn/
 layout: single
 author_profile: false
 header:

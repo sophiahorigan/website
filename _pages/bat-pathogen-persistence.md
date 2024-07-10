@@ -1,5 +1,5 @@
 ---
-permalink: /bat-pathogen-persistence/
+permalink: /research/bat-pathogen-persistence/
 layout: single
 author_profile: false
 header:

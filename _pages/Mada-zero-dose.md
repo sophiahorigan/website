@@ -1,5 +1,5 @@
 ---
-permalink: /Mada-zero-dose/
+permalink: /research/Mada-zero-dose/
 layout: single
 author_profile: false
 header:

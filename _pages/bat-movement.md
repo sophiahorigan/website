@@ -1,5 +1,5 @@
 ---
-permalink: /bat-movement/
+permalink: /research/bat-movement/
 layout: single
 author_profile: false
 header:

@@ -1,5 +1,5 @@
 ---
-permalink: /astrovirus/
+permalink: /research/astrovirus/
 layout: single
 author_profile: false
 header:

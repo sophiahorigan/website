@@ -1,5 +1,5 @@
 ---
-permalink: /cc-pathogen/
+permalink: /research/cc-pathogen/
 layout: single
 author_profile: false
 header:
