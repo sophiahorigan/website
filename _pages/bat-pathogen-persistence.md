@@ -16,5 +16,8 @@ Check back soon!
 
 ## Posters
 
+I presented a poster of this work at the Ecology and Evolution of Infectious Disease conference at Stanford University in 2024. See a pdf version of my poster here.
 
 ### Acknowledgements
+
+Advisor: [Dr. Cara Brook](https://brooklab.org/cara-brook)
