@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
- image: "/assets/images/fieldcomp.jpg"
+ image: "/assets/images/fieldcomp.png"
  caption: "*When modeling and fieldwork combine*"
 ---
 
