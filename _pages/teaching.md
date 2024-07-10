@@ -3,8 +3,8 @@ permalink: /teaching/
 author_profile: false
 title: "Teaching"
 header:
-  image: "~/test.jpeg"
-  caption: "*The 'Chicago Bean' in Winter*"
+  image: "/assets/images/teaching.jpeg"
+  caption: "*Teaching a lecture during E2M2 2022*"
 ---
 
 I love to teach, and have sought out opportunities to practice and expand my educational skillset.
