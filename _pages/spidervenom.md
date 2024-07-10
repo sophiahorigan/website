@@ -2,6 +2,9 @@
 permalink: /research/spider-venom/
 layout: single
 author_profile: false
+header:
+  image: /assets/images/brown_recluse1.jpg
+  caption: "*Brown recluse spider*"
 ---
 
 Back in 2015, Lewis & Clark College was new to the world of 'big data'. I was one of only two students taking on the optional senior thesis with a huge task ahead of me: figure out how to bring big data analysis to our small liberal arts college.
@@ -9,8 +12,6 @@ Back in 2015, Lewis & Clark College was new to the world of 'big data'. I was on
 My thesis work was focused on using genetic data to understand the relationship between species of spiders, and their venom proteins, from the same family as the brown-recluse. Because of recent advances in genetic processing, we could now get huge amounts of genetic information from a single sample. Processing all of that data proved to be too much for our desktop computers.
 
 I spearheaded the use of Amazon Web Services Cloud Computing on our campus, building a pipeline for genetic analysis used in perpetuity by the lab. To support this work, I was awarded two Amazon Web Services Cloud Computing grants.
-
-<img align="right" width="33%" margin-left="20px" src="/assets/images/aboutme1.jpg">
 
 ## Posters
 

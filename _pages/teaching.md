@@ -10,9 +10,9 @@ header:
 I love to teach, and have sought out opportunities to practice and expand my educational skillset.
 
 ### Madagascar Educational Programming
-As an instructor at Ecological and Epidemiological Modeling in Madagascar (see Madagascar Outreach tab) in both 2022 and 2024, I have taught lectures, tutorials, and activities focused on the use of mathematical models in ecology and epidemiology.
+As an instructor at [Ecological and Epidemiological Modeling in Madagascar](/_pages/oureachprogramming.md) in both 2022 and 2024, I have taught lectures, tutorials, and activities focused on the use of mathematical models in ecology and epidemiology.
 
-As a mentor in Coding for Conservation (see Madagascar Outreach tab) from 2023-2024, I both led an hour-long virtual lecture and tutorial on basic statistics for the entire group, and regularly met with and supported my mentee on their work.
+As a mentor in [Coding for Conservation](/_pages/oureachprogramming.md) from 2023-2024, I both led an hour-long virtual lecture and tutorial on basic statistics for the entire group, and regularly met with and supported my mentee on their work.
 
 Both of these experiences have given me strong cross-cultural communcation skills, and are the highlights of my teaching experiences.
 
