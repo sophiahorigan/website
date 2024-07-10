@@ -17,7 +17,7 @@ During my time in Madagascar I witnessed the reality of the intersection of pove
 
 Now, as I approach the end of my PhD, my life's goal has become clear to me: use my skillset to reduce the global disease burden. I am particularly interested in working to support the internsection of science and public health implementation in low- and middle- income countries, and hope to be able to travel for my job, working in cross-cultural and multi-lingual environments. 
 
-All in all, I have had an incredibly fortunate life, and am ready and excited to work hard to improve the lives of others.
+I have had an incredibly fortunate life, and am ready and excited to work hard to improve the lives of others.
 
 ## Contact
 email: sophia.horigan@gmail.com
