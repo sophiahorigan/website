@@ -15,7 +15,7 @@ Tools & Software: Visual Studio Code, computing cluster
 Coding language: C, R
 
 ## Publications
-"Climate change impacts on dynamics of a spatially driven insect-multipathogen system"
+"Climate change impacts on the dynamics of a spatially driven insect-multipathogen system"
 
 Status: In progress
 
