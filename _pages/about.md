@@ -21,8 +21,11 @@ I have had an incredibly fortunate life, and am ready and excited to work hard t
 
 ## Contact
 email: sophia.horigan@gmail.com
+
 phone: 805-765-7142
+
 [Github](https://github.com/sophiahorigan)
+
 [Linkedin](https://www.linkedin.com/in/sophia-horigan-01a812237/)
 
 
