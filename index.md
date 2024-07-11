@@ -11,13 +11,13 @@ My name is Sophia Horigan and I am a PhD Candidate at the University of Chicago 
 To learn more about my work, service, and interests, check out my:
 
 ### [Past and current research projects](/research)
-From putative zoonoses in bats to insect fungal pathogens, my research has taken me through all the scales of infectious disease dynamics. Read about how I combine field work and computational modeling.
+From putative zoonoses in bats to insect fungal pathogens, my research has taken me through all the scales of infectious disease dynamics. 
 ### [Work supporting educational programming for Malagasy students](/outreachprogramming)
 With a passion for equitable education opportunities, I've sought out opportunities to support and lead educational programming.
 ### [Service to the University of Chicago community](/communityservice)
 The COVID-19 pandemic began six months after I started my PhD, and my way to get through was to give back - read about how I became involved in pandemic and post-pandemic programming to support the mental, physical, and emotional health of the University of Chicago student community.
 ### [Teaching experience](/teaching)
-I love to teach, whether its a graduate course or citizen science project. Read about my teaching experience here.
+I love to teach, whether its a graduate course or citizen science project. 
 
 ## About Me
 
