@@ -10,10 +10,10 @@ My name is Sophia Horigan and I am a PhD Candidate at the University of Chicago 
 
 To learn more about my work, service, and interests, check out my:
 
-* [Past and current research projects](/research)
-* [Work supporting educational programming for Malagasy students](/outreachprogramming)
-* [Service to the University of Chicago community](/communityservice)
-* [Teaching experience](/teaching)
+### [Past and current research projects](/research)
+### [Work supporting educational programming for Malagasy students](/outreachprogramming)
+### [Service to the University of Chicago community](/communityservice)
+### [Teaching experience](/teaching)
 
 ## About Me
 
