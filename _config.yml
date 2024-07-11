@@ -78,7 +78,7 @@ plugins:
 
 author:
   name   : "Sophia Horigan"
-  avatar : "/assets/images/aboutme1.jpg"
+  avatar : "/assets/images/me.jpeg"
   bio    : "infectious disease dynamics, zoonoses, global health"
   links:
     - label: "LinkedIn"
