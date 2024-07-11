@@ -19,8 +19,8 @@ To learn more about my work, service, and interests, check out my:
 
 A love for the outdoors as a result of growing up in gorgeous Southern California led me to pursue Biology as an undergraduate at Lewis & Clark College in Portland, Oregon. I remember thinking, people get paid to be outside and engage with nature?! Through undergrad I developed a strong foundation in ecology, but it wasn't until I took a disease ecology course in my senior year that I found my passion. Disease ecology combined everything I found interesting, bridging scales from within-host dynamics to global pandemics. 
 
-<img align="right" width="50%" margin-left="20px" src="/assets/images/sophbat.jpeg">
-<img align="left" width="50%" margin-left="20px" src="/assets/images/sophlog.jpeg">
+<img align="right" width="45%" margin-left="20px" src="/assets/images/sophbat.jpeg">
+<img align="left" width="45%" margin-left="20px" src="/assets/images/sophlog.jpeg">
 
 I decided to take on a PhD studying infectious disease dynamics at the University of Chicago in the Department of Ecology and Evolution. Over the past five years I've honed my skills in mathematical and statistical modeling of infectious diseases in systems ranging from insects to bats, taking me from Michigan to Madagascar. 
 
@@ -38,12 +38,5 @@ phone: 805-765-7142
 [Github](https://github.com/sophiahorigan)
 
 [Linkedin](https://www.linkedin.com/in/sophia-horigan-01a812237/)
-
-
-
-
-
-
-
 
 Thank you for visiting!
