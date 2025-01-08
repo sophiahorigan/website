@@ -34,9 +34,7 @@ I decided to take on a PhD studying infectious disease dynamics at the Universit
     <img align="left" width="45%" margin-left="20px" src="/assets/images/batnet.jpg">
 </figure>
 
-During my time in Madagascar I witnessed the reality of the intersection of poverty and disease, and I became more and more interested in public and global health. 
-
-Now, as I approach the end of my PhD, my life's goal has become clear to me: use my skillset to reduce the global disease burden.
+During my time in Madagascar I witnessed the interconnectedness of human, animal, and environmental health, and the consequences of destroying biodiversity. I hope to leverage my skillset to perform research and enact programming focused on One Health, working to preserve our precious landscapes and uplift communities around the world. 
 
 ## Contact
 email: sophia.horigan[at]gmail.com
